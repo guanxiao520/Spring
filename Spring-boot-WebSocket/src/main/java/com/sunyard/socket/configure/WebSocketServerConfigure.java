@@ -19,6 +19,7 @@ public class WebSocketServerConfigure implements WebSocketConfigurer {
 
     /**
      * 添加到注册器 客户端使用的是sockJs的方式
+     *
      * @param registry
      */
     @Override
